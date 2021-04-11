@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/Users/jacobst.germain/Documents/Adult/Grad School/2021 Classes/ITC 6000/ITC_6000_2021_Winter_B_YahooFantasy_DB_Jacob_St_Germain.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure pragmas browser query" current="0"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3303"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,6:mainPLAYER"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="DAILY_ROSTER" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="93"/><column index="2" value="74"/><column index="3" value="118"/><column index="4" value="73"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="FANTASY_TEAM" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="54"/><column index="2" value="121"/><column index="3" value="74"/><column index="4" value="68"/><column index="5" value="77"/><column index="6" value="63"/><column index="7" value="70"/><column index="8" value="79"/><column index="9" value="64"/><column index="10" value="64"/><column index="11" value="87"/><column index="12" value="34"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="FANTASY_TEAM_MATCHUP" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="54"/><column index="2" value="70"/><column index="3" value="111"/><column index="4" value="77"/><column index="5" value="99"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="FANTASY_TEAM_PLAYER" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="101"/><column index="2" value="60"/><column index="3" value="166"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="MATCHUP_DAILY_ROSTER" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="70"/><column index="2" value="93"/><column index="3" value="122"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="NHL_TEAM" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="124"/><column index="2" value="124"/><column index="3" value="81"/><column index="4" value="63"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PLAYER" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="60"/><column index="2" value="68"/><column index="3" value="135"/><column index="4" value="89"/><column index="5" value="78"/><column index="6" value="101"/><column index="7" value="103"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PLAYER_GAME_LOG" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="55"/><column index="2" value="80"/><column index="3" value="118"/><column index="4" value="52"/><column index="5" value="57"/><column index="6" value="18"/><column index="7" value="18"/><column index="8" value="30"/><column index="9" value="30"/><column index="10" value="29"/><column index="11" value="29"/><column index="12" value="31"/><column index="13" value="34"/><column index="14" value="31"/><column index="15" value="25"/><column index="16" value="26"/><column index="17" value="29"/></column_widths><filter_values><column index="2" value="755"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PLAYER_HEALTH_STATUS" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="2" value="60"/><column index="3" value="165"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PLAYER_NHL_TEAM" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="82"/><column index="2" value="89"/><column index="3" value="147"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PLAYER_ROSTER" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="60"/><column index="2" value="96"/><column index="3" value="88"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="ROSTER_SLOT" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="71"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Insert_Data">INSERT INTO FANTASY_TEAM
+VALUES  (1,&quot;Hockey Team&quot;,&quot;H&quot;,&quot;Eastern&quot;,&quot;Eastern&quot;,1,0,0,0,0,0,1),
+                   (2,&quot;Best Team&quot;,&quot;B&quot;,&quot;Eastern&quot;,&quot;Eastern&quot;,1,0,0,0,0,0,1),
+				   (3,&quot;Hard Hitters&quot;,&quot;Z&quot;,&quot;Eastern&quot;,&quot;Eastern&quot;,1,0,0,0,0,0,1),
+				   (4,&quot;Puck Luck&quot;,&quot;L&quot;,&quot;Central&quot;,&quot;Eastern&quot;,1,0,0,0,0,0,1),
+				   (5,&quot;Better Team&quot;,&quot;P&quot;,&quot;Mountain&quot;,&quot;Central&quot;,1,0,0,0,0,0,1),
+				   (6,&quot;Slap Shots&quot;,&quot;J&quot;,&quot;Mountain&quot;,&quot;Eastern&quot;,1,0,0,0,0,0,1),
+				   (7,&quot;Ice Cold&quot;,&quot;A&quot;,&quot;Central&quot;,&quot;Eastern&quot;,1,0,0,0,0,0,1),
+				   (8,&quot;Huskys&quot;,&quot;C&quot;,&quot;Eastern&quot;,&quot;Pacific&quot;,1,0,0,0,0,0,1),
+				   (9,&quot;Perfect Team&quot;,&quot;I&quot;,&quot;Pacific&quot;,&quot;Eastern&quot;,1,0,0,0,0,0,1),
+				   (10,&quot;John's Team&quot;,&quot;Y&quot;,&quot;Eastern&quot;,&quot;Eastern&quot;,1,0,0,0,0,0,1),
+				   (11,&quot;Winners Only&quot;,&quot;L&quot;,&quot;Pacific&quot;,&quot;Eastern&quot;,1,0,0,0,0,0,1),
+				   (12,&quot;Boston Bruins&quot;,&quot;A&quot;,&quot;Central&quot;,&quot;Pacific&quot;,1,0,0,0,0,0,1),	
+				   (13,&quot;Hockey Team&quot;,&quot;H&quot;,&quot;Eastern&quot;,&quot;Eastern&quot;,2,0,0,0,0,0,1),
+                   (14,&quot;Best Team&quot;,&quot;B&quot;,&quot;Eastern&quot;,&quot;Eastern&quot;,2,0,0,0,0,0,1),
+				   (15,&quot;Hard Hitters&quot;,&quot;Z&quot;,&quot;Eastern&quot;,&quot;Eastern&quot;,2,0,0,0,0,0,1),
+				   (16,&quot;Puck Luck&quot;,&quot;L&quot;,&quot;Central&quot;,&quot;Eastern&quot;,2,0,0,0,0,0,1),
+				   (17,&quot;Better Team&quot;,&quot;P&quot;,&quot;Mountain&quot;,&quot;Central&quot;,2,0,0,0,0,0,1),
+				   (18,&quot;Slap Shots&quot;,&quot;J&quot;,&quot;Mountain&quot;,&quot;Eastern&quot;,2,0,0,0,0,0,1),
+				   (19,&quot;Ice Cold&quot;,&quot;A&quot;,&quot;Central&quot;,&quot;Eastern&quot;,3,0,0,0,0,0,1),
+				   (20,&quot;Huskys&quot;,&quot;C&quot;,&quot;Eastern&quot;,&quot;Pacific&quot;,3,0,0,0,0,0,1),
+				   (21,&quot;Perfect Team&quot;,&quot;I&quot;,&quot;Pacific&quot;,&quot;Eastern&quot;,3,0,0,0,0,0,1),
+				   (22,&quot;THE Team&quot;,&quot;Y&quot;,&quot;Eastern&quot;,&quot;Eastern&quot;,3,0,0,0,0,0,1),
+				   (23,&quot;Big Hitters Only&quot;,&quot;L&quot;,&quot;Pacific&quot;,&quot;Eastern&quot;,3,0,0,0,0,0,1),
+				   (24,&quot;Avalanche&quot;,&quot;A&quot;,&quot;Central&quot;,&quot;Pacific&quot;,3,0,0,0,0,0,1),
+				   (25,&quot;Perfect Team&quot;,&quot;I&quot;,&quot;Pacific&quot;,&quot;Eastern&quot;,3,0,0,0,0,0,1),
+				   (26,&quot;Scorers&quot;,&quot;Y&quot;,&quot;Eastern&quot;,&quot;Eastern&quot;,3,0,0,0,0,0,1),
+				   (27,&quot;Bar down&quot;,&quot;L&quot;,&quot;Pacific&quot;,&quot;Eastern&quot;,3,0,0,0,0,0,1),
+				   (28,&quot;Choclate Chip Cookies&quot;,&quot;A&quot;,&quot;Central&quot;,&quot;Pacific&quot;,3,0,0,0,0,0,1)
+				   ;
+
+INSERT INTO LEAGUE
+VALUES
+			         (1,1,&quot;Winners Only&quot;,2,1,&quot;1/06/2021&quot;,&quot;7 PM EST&quot;,5,12),
+                     (2,1,&quot;Fantasy Hockey League&quot;,2,1,&quot;1/10/2021&quot;,&quot;5 PM EST&quot;,15,6),
+					 (3,1,&quot;Big Winners&quot;,1,2,&quot;12/26/2020&quot;,&quot;7 PM EST&quot;,25,10),
+   					 (4,1,&quot;Hockey Lovers&quot;,1,2,&quot;1/06/2021&quot;,&quot;7 PM EST&quot;,14,12),
+					 (5,1,&quot;Dog Lovers&quot;,1,2,&quot;1/06/2021&quot;,&quot;7 PM EST&quot;,12,12),
+					 (6,2,&quot;Cat Lovers&quot;,1,2,&quot;1/08/2021&quot;,&quot;7 PM EST&quot;,11,12);
+		
+
+INSERT INTO USER
+VALUES (26,&quot;JSG123&quot;,&quot;JSG@YAHOO.COM&quot;,12,2001,12,&quot;Male&quot;,&quot;Jacob&quot;, &quot;St. Germain&quot;,&quot;Password123&quot;,1235436678,26);
+
+INSERT INTO DAILY_ROSTER
+VALUES (183,&quot;11/4/21&quot;,7,1),
+                   (184,&quot;11/4/21&quot;,7,2),
+				   (185,&quot;11/4/21&quot;,7,3),
+				   (186,&quot;11/4/21&quot;,7,4),
+				   (187,&quot;11/4/21&quot;,7,5),
+				   (188,&quot;11/4/21&quot;,7,6),
+				   (189,&quot;11/4/21&quot;,7,7),
+				   (190,&quot;11/4/21&quot;,7,8),
+				   (191,&quot;11/4/21&quot;,7,9),
+				   (192,&quot;11/4/21&quot;,7,10),
+				   (193,&quot;11/4/21&quot;,7,11),
+				   (194,&quot;11/4/21&quot;,7,12),
+				   (195,&quot;11/4/21&quot;,7,13),
+				   (196,&quot;11/4/21&quot;,7,14),
+				   (197,&quot;11/4/21&quot;,7,15),
+				   (198,&quot;11/4/21&quot;,7,16),
+				   (199,&quot;11/4/21&quot;,7,17),
+				   (200,&quot;11/4/21&quot;,7,18),
+				   (201,&quot;11/4/21&quot;,7,19),
+				   (202,&quot;11/4/21&quot;,7,20),
+				   (203,&quot;11/4/21&quot;,7,21),
+				   (204,&quot;11/4/21&quot;,7,22),
+				   (205,&quot;11/4/21&quot;,7,23),
+				   (206,&quot;11/4/21&quot;,7,24),
+				   (207,&quot;11/4/21&quot;,7,25),
+				   (208,&quot;11/4/21&quot;,7,26);
+
+
+	
+			
+
+
+
+</sql><sql name="TEST QUERIES">SELECT FirstName, LastName, Username FROM USER
+INNER JOIN FANTASY_TEAM ON 
+FANTASY_TEAM.Team_ID = USER.FK_Fantasy_Team_ID
+WHERE FK_Fantasy_Team_ID =5 ;
+
+SELECT Player_Name, POSITION.Position, Team_Name, Season_Rank, Percent_Rostered, Percent_Changed,Health_Satus,Fantasy_Points FROM PLAYER
+INNER JOIN PLAYER_HEALTH_STATUS ON 
+PLAYER_HEALTH_STATUS.Player_ID = PLAYER.Player_ID
+INNER JOIN HEALTH_STATUS ON 
+HEALTH_STATUS.Health_Status_ID= PLAYER_HEALTH_STATUS.Health_Status_ID
+INNER JOIN POSITION ON 
+POSITION.Position_ID = PLAYER.Position_ID
+INNER JOIN PLAYER_NHL_TEAM ON 
+PLAYER_NHL_TEAM.NHL_Player_ID = PLAYER.Player_ID
+INNER JOIN FANTASY_TEAM_PLAYER ON 
+FANTASY_TEAM_PLAYER.Player_ID = PLAYER.Player_ID
+INNER JOIN FANTASY_TEAM ON 
+FANTASY_TEAM.Team_ID = FANTASY_TEAM_PLAYER.Fantasy_Team_ID
+WHERE PLAYER.Player_Name = &quot;Philipp Grubauer&quot; AND Team_Name = &quot;Huskys&quot;;
+
+SELECT League_Name, Username from USER
+INNER JOIN LEAGUE ON
+LEAGUE.FK_Commish_ID = USER.User_ID;
+
+SELECT League_Type from LEAGUE
+INNER JOIN LEAGUE_TYPE ON LEAGUE_TYPE.League_Type_ID = LEAGUE.FK_League_Type_ID
+WHERE League_Name = &quot;Dog Lovers&quot;;
+ 
+ SELECT Team_Name,Team_Wins,Points_For,Username FROM FANTASY_TEAM
+ INNER JOIN USER on USER.Fantasy_Team_ID = FANTASY_TEAM.Team_ID
+ WHERE FANTASY_TEAM.Rank = 1;
+
+
+SELECT * FROM PLAYER
+INNER JOIN PLAYER_GAME_LOG on PLAYER_GAME_LOG.FK_Player_ID = PLAYER.Player_ID
+INNER JOIN NHL_MATCHUP ON NHL_MATCHUP.NHL_Matchup_ID = PLAYER_GAME_LOG.FK_NHL_Matchup_ID
+WHERE PLAYER_GAME_LOG.G &gt; 0;
+
+
+SELECT Position , Player_Name, Fantasy_Points FROM PLAYER
+INNER JOIN FANTASY_TEAM_PLAYER ON FANTASY_TEAM_PLAYER.Player_ID = PLAYER.Player_ID
+INNER JOIN FANTASY_TEAM ON FANTASY_TEAM.Team_ID= FANTASY_TEAM_PLAYER.Fantasy_Team_ID
+INNER JOIN POSITION ON POSITION.Position_ID = PLAYER.Position_ID
+INNER JOIN LEAGUE ON LEAGUE.League_ID = FANTASY_TEAM.League_ID
+WHERE (Team_Name = &quot;Huskys&quot;)
+ AND   (League_Name = &quot;Fantasy Hockey League&quot;);</sql><sql name="Create Tables">CREATE TABLE MATCHUP_RESULT (
+    Matchup_Result_ID INTEGER,
+    Matchup_Result TEXT,
+	PRIMARY KEY(&quot;Matchup_Result_ID&quot;)
+);
+
+CREATE TABLE FANTASY_TEAM_MATCHUP (
+    Team_ID INTEGER,
+    Matchup_ID INTEGER,
+	FK_Matchup_Result INTEGER,
+	FK_Opponent_ID INTEGER,
+	Team_Points INTEGER,
+	Opponent_Points INTEGER,
+	PRIMARY KEY(&quot;Matchup_ID&quot;,&quot;Team_ID&quot;),
+	FOREIGN KEY(&quot;Team_ID&quot;) REFERENCES &quot;FANTASY_TEAM&quot;(&quot;Team_ID&quot;),
+	FOREIGN KEY(&quot;Matchup_ID&quot;) REFERENCES &quot;MATCHUP&quot;(&quot;Matchup_ID&quot;),
+	FOREIGN KEY(&quot;FK_Matchup_Result&quot;) REFERENCES &quot;MATCHUP_RESULT&quot;(&quot;Matchup_Result_ID&quot;),
+	FOREIGN KEY(&quot;FK_Opponent_ID&quot;) REFERENCES &quot;FANTASY_TEAM&quot;(&quot;Team_ID&quot;)
+);</sql><sql name="Final Project Scenario Queries">SELECT Player_Name, POSITION.Position, Team_Name, Season_Rank, Percent_Rostered, Percent_Changed,Health_Satus,Fantasy_Points FROM PLAYER
+INNER JOIN PLAYER_HEALTH_STATUS ON 
+PLAYER_HEALTH_STATUS.Player_ID = PLAYER.Player_ID
+INNER JOIN HEALTH_STATUS ON 
+HEALTH_STATUS.Health_Status_ID= PLAYER_HEALTH_STATUS.Health_Status_ID
+INNER JOIN POSITION ON 
+POSITION.Position_ID = PLAYER.Position_ID
+INNER JOIN PLAYER_NHL_TEAM ON 
+PLAYER_NHL_TEAM.NHL_Player_ID = PLAYER.Player_ID
+INNER JOIN FANTASY_TEAM_PLAYER ON 
+FANTASY_TEAM_PLAYER.Player_ID = PLAYER.Player_ID
+INNER JOIN FANTASY_TEAM ON 
+FANTASY_TEAM.Team_ID = FANTASY_TEAM_PLAYER.Fantasy_Team_ID
+WHERE PLAYER.Player_Name = &quot;Philipp Grubauer&quot; AND Team_Name = &quot;Huskys&quot;;
+
+
+INSERT INTO USER
+VALUES (27,&quot;JSG123&quot;,&quot;JSG@YAHOO.COM&quot;,12,2001,12,&quot;Male&quot;,&quot;Jacob&quot;, &quot;St. Germain&quot;,&quot;Password123&quot;,1235436678,26);
+
+INSERT INTO LEAGUE
+VALUES (7,2,&quot;ALY 6070 Fantasy Hockey League&quot;,1,2,&quot;3/15/21&quot;,&quot;4:30 PM EST&quot;,27,12);
+
+SELECT Player_Name, POSITION.Position, Team_Name, Season_Rank, Percent_Rostered, Percent_Changed,Health_Satus,Fantasy_Points,
+Fan_Pts,TOI,G,A,P_M,PPG,PPA,PPP
+FROM PLAYER
+INNER JOIN PLAYER_HEALTH_STATUS ON 
+PLAYER_HEALTH_STATUS.Player_ID = PLAYER.Player_ID
+INNER JOIN HEALTH_STATUS ON 
+HEALTH_STATUS.Health_Status_ID= PLAYER_HEALTH_STATUS.Health_Status_ID
+INNER JOIN POSITION ON 
+POSITION.Position_ID = PLAYER.Position_ID
+INNER JOIN PLAYER_NHL_TEAM ON 
+PLAYER_NHL_TEAM.NHL_Player_ID = PLAYER.Player_ID
+INNER JOIN FANTASY_TEAM_PLAYER ON 
+FANTASY_TEAM_PLAYER.Player_ID = PLAYER.Player_ID
+INNER JOIN FANTASY_TEAM ON 
+FANTASY_TEAM.Team_ID = FANTASY_TEAM_PLAYER.Fantasy_Team_ID
+INNER JOIN PLAYER_GAME_LOG ON 
+PLAYER_GAME_LOG.FK_Player_ID = PLAYER.Player_ID
+WHERE PLAYER.Player_Name = &quot;David Pastrnak&quot; AND Team_Name = &quot;Huskys&quot;
+LIMIT 5;
+
+
+
+SELECT Player_Name,Position, Team_Name, Health_Satus
+FROM PLAYER
+INNER JOIN PLAYER_HEALTH_STATUS ON 
+PLAYER_HEALTH_STATUS.Player_ID = PLAYER.Player_ID
+INNER JOIN HEALTH_STATUS ON 
+HEALTH_STATUS.Health_Status_ID= PLAYER_HEALTH_STATUS.Health_Status_ID
+INNER JOIN POSITION ON 
+POSITION.Position_ID = PLAYER.Position_ID
+INNER JOIN PLAYER_NHL_TEAM ON 
+PLAYER_NHL_TEAM.NHL_Player_ID = PLAYER.Player_ID
+INNER JOIN FANTASY_TEAM_PLAYER ON 
+FANTASY_TEAM_PLAYER.Player_ID = PLAYER.Player_ID
+INNER JOIN FANTASY_TEAM ON 
+FANTASY_TEAM.Team_ID = FANTASY_TEAM_PLAYER.Fantasy_Team_ID
+WHERE Position = &quot;RW&quot; AND Team_Name = &quot;Huskys&quot; AND League_ID = 2
+LIMIT 5;
+
+INSERT INTO PLAYER_ROSTER VALUES(755,3,3);
+
+</sql><current_tab id="3"/></tab_sql></sqlb_project>
